@@ -8,6 +8,10 @@ public class Nsum {
 		//숫자 String으로 입력받자 <= 자릿수를 알기 위해서 <= 0~자릿수-1까지 하나씩 잘라서 더해야함
 		Scanner scanner = new Scanner(System.in);
 		String number = scanner.nextLine();
+		nSum(number);
+	}
+
+	private static void nSum(String number) {
 		//각 자릿수의 수를 더하자
 		int length = number.length();
 		int sum = 0;
