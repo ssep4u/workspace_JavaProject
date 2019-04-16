@@ -31,7 +31,7 @@ public class RockPaperScissors {
 
 	private static int compare(int p, int c) {
 //		if((p == 1 && c == 2) || (p == 2 && c == 3) || (p == 3 && c == 1)) {
-		if ((p + 1) % 3 == c) {
+		if ((p + 1) % 3 == c % 3) {
 			// -1: 사용자가 짐
 			return -1;
 //		} else if((p == 1 && c == 1) || (p == 2 && c == 2) || (p == 3 && c == 3)) {
