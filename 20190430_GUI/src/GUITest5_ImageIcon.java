@@ -24,6 +24,8 @@ public class GUITest5_ImageIcon {
 		ImageIcon smallPikachu = new ImageIcon(pikachu.getImage()
 				.getScaledInstance(100, 100, Image.SCALE_DEFAULT));
 		JButton imageButton = new JButton(smallPikachu);
+		imageButton.setRolloverIcon(kirby);		//마우스 올리면
+		imageButton.setPressedIcon(pikachu);	//마우스 클릭하면
 		
 		panel.add(imageLabel);
 		panel.add(imageButton);
