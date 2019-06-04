@@ -1,24 +1,7 @@
 INDEX VERSION 1.131+C:\Users\Mirim\eclipse-workspace_JavaProject\.metadata\.plugins\org.eclipse.jdt.core
-582872082.index
-4213348864.index
 2098839509.index
 2647031597.index
-2978330599.index
-3244853415.index
-607522861.index
 3650794835.index
-4054038625.index
-2762649813.index
-1223396850.index
-1220308574.index
-648506100.index
-2668948516.index
-636016986.index
-2492604015.index
+1665523169.index
 3099678865.index
-2538215463.index
-306780836.index
 4283575615.index
-2125071999.index
-362242403.index
-503605182.index
